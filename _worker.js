@@ -12,7 +12,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://raw.githubusercontent.com/Pawdroid/Free-servers/refs/heads/main/sub
+
 `
 
 let urls = [];
