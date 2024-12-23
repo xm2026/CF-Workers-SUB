@@ -1,2 +1,1 @@
-https://github.com/barry-far/V2ray-Configs/tree/main
-https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs
+机场永久订阅链接： https://x.xmaec.us.kg/zx  不定期更新
